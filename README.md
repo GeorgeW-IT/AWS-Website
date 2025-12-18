@@ -44,7 +44,7 @@ The bucket is set to private with public access blocked since CloudFront handles
 
 This shows my CloudFront distribution settings with the custom domain and SSL certificate configured.
 
-![CloudFront Settings](screenshots/cloudfront-settings.png)
+![CloudFront Settings](AWSWebsite_Screenshots/CloudFront_Distribution.png)
 
 ### CloudFront Origin
 
