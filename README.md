@@ -32,7 +32,7 @@ Here's how I built and deployed the website:
 
 This shows my S3 bucket containing all the website files (HTML, CSS, images).
 
-![S3 Bucket](screenshots/s3-bucket.png)
+![S3 Bucket](AWSWebiste_Screenshots/S3_Bucket_File_Names.png)
 
 ### S3 Bucket Permissions
 
