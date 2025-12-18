@@ -32,7 +32,7 @@ Here's how I built and deployed the website:
 
 This diagram shows the architecture of my AWS-hosted portfolio website, including Route 53, CloudFront (with ACM for HTTPS), and the private S3 bucket serving content.
 
-![Architecture Diagram](AWSWebsite_Screenshots/architecture-diagram.png)
+![Architecture Diagram](AWSWebsite_Screenshots/Architecture_Diagram.png)
 
 ### S3 Bucket with Website Files
 
