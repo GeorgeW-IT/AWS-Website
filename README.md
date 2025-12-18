@@ -28,6 +28,12 @@ Here's how I built and deployed the website:
 
 ## Screenshots
 
+### Architecture Diagram for my AWS Website
+
+This diagram shows the architecture of my AWS-hosted portfolio website, including Route 53, CloudFront (with ACM for HTTPS), and the private S3 bucket serving content.
+
+![Architecture Diagram](AWSWebsite_Screenshots/architecture-diagram.png)
+
 ### S3 Bucket with Website Files
 
 This shows my S3 bucket containing all the website files (HTML, CSS, images).
@@ -75,6 +81,8 @@ My Route 53 hosted zone showing the DNS records that point my custom domain to t
 - Web development (HTML/CSS/JavaScript)
 - Content delivery network (CDN) setup
 - Analytics integration
+- Secure S3 bucket access using CloudFront OAC
+- HTTPS setup via ACM
 
 ### Concepts Applied
 - Cloud architecture design
