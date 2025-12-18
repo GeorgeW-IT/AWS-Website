@@ -50,7 +50,7 @@ This shows my CloudFront distribution settings with the custom domain and SSL ce
 
 This shows CloudFront is connected to my S3 bucket as the origin for content delivery.
 
-![CloudFront Origin](screenshots/cloudfront-origin.png)
+![CloudFront Origin](AWSWebsite_Screenshots/CloudFront_Origins.png)
 
 ### Route 53 DNS Records
 
