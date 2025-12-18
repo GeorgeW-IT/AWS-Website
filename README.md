@@ -112,7 +112,7 @@ My Route 53 hosted zone showing the DNS records that point my custom domain to t
 
 ## Live Website
 
-Visit the live site: [georgewhatley.co.uk](https://georgewhatley.co.uk)
+Visit the live site: [georgewhatley.co.uk](https://www.georgewhatley.co.uk)
 
 ## Repository Contents
 
