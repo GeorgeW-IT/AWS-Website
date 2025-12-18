@@ -56,7 +56,7 @@ This shows CloudFront is connected to my S3 bucket as the origin for content del
 
 My Route 53 hosted zone showing the DNS records that point my custom domain to the CloudFront distribution.
 
-![Route 53 Records](screenshots/Route53_Hosted_Zone.png)
+![Route 53 Records](AWSWebsite_Screenshots/Route53_Hosted_Zone.png)
 
 ### Live Website
 
