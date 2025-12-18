@@ -51,6 +51,8 @@ This shows my CloudFront distribution settings with the custom domain and SSL ce
 These screenshots show CloudFront configured with an S3 bucket as the origin, secured using Origin Access Control (OAC).
 
 ![CloudFront Origin](AWSWebsite_Screenshots/CloudFront_Origins.png)
+![CloudFront Origin](AWSWebsite_Screenshots/OAC.png)
+
 
 ### Route 53 DNS Records
 
