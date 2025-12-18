@@ -48,7 +48,7 @@ This shows my CloudFront distribution settings with the custom domain and SSL ce
 
 ### CloudFront Origin
 
-This shows CloudFront is connected to my S3 bucket as the origin for content delivery.
+These screenshots show CloudFront configured with an S3 bucket as the origin, secured using Origin Access Control (OAC).
 
 ![CloudFront Origin](AWSWebsite_Screenshots/CloudFront_Origins.png)
 
