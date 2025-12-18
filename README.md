@@ -38,7 +38,7 @@ This shows my S3 bucket containing all the website files (HTML, CSS, images).
 
 The bucket is set to private with public access blocked since CloudFront handles all access to the files.
 
-![S3 Permissions](screenshots/s3-permissions.png)
+![S3 Permissions](AWSWebsite_Screenshots/Block_Public_Access.png)
 
 ### CloudFront Distribution
 
