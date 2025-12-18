@@ -1,30 +1,72 @@
-# AWS Cloud Portfolio Project
-
-This project showcases my experience with AWS Cloud services. It includes screenshots and descriptions of the resources I created and configured.
+# AWS Cloud Portfolio Website
 
 ## Project Overview
-In this project, I set up an example cloud environment using AWS. This demonstrates my ability to manage cloud resources, configure networking, and work with compute and storage services.
 
-## Key Services Used
-- **EC2 Instances** – Deployed virtual servers in the cloud.  
-- **S3 Buckets** – Configured storage for files and backups.  
-- **VPC & Subnets** – Set up networking and security.  
-- **IAM Roles & Policies** – Managed permissions and access control.  
+I built and deployed a personal portfolio website hosted on AWS to showcase my technical projects and skills. This project demonstrates my ability to work with cloud infrastructure, web hosting, and AWS services.
+
+## Technologies Used
+- Amazon Web Services (AWS)
+- HTML/CSS/JavaScript
+- [Add other technologies you used - S3, CloudFront, Route 53, etc.]
+
+## Project Setup
+
+Here's how I built and deployed the website:
+
+1. [Step 1 - e.g., Created S3 bucket for static website hosting]
+2. [Step 2 - e.g., Configured CloudFront distribution]
+3. [Step 3 - e.g., Set up custom domain with Route 53]
+4. [Step 4 - e.g., Implemented SSL/TLS certificate]
+5. [Step 5 - e.g., Deployed website files]
 
 ## Screenshots
-Here are some screenshots from the project:
 
-### EC2 Instances
-![EC2 Dashboard](AWS_Screenshots/ec2_dashboard.png)
+[Add your screenshots here showing the website, AWS console configurations, etc.]
 
-### S3 Buckets
-![S3 Buckets](AWS_Screenshots/s3_buckets.png)
+### Website Homepage
 
-### VPC & Subnets
-![VPC Setup](AWS_Screenshots/vpc_setup.png)
+![Homepage](screenshots/homepage.png)
 
-### IAM Roles
-![IAM Roles](AWS_Screenshots/iam_roles.png)
+### AWS Architecture
 
-## Summary
-This project demonstrates my understanding of AWS core services, resource management, and cloud architecture basics. It can serve as a foundation for more advanced cloud projects in the future.
+![AWS Setup](screenshots/aws-architecture.png)
+
+## Skills Demonstrated
+
+### Technical Skills
+- AWS service configuration and management
+- Static website hosting
+- Cloud infrastructure deployment
+- DNS configuration
+- SSL/TLS implementation
+- Web development
+- Cloud cost optimization
+
+### Concepts Applied
+- Cloud architecture design
+- Infrastructure as a Service (IaaS)
+- Content delivery networks (CDN)
+- Domain management
+- Security best practices
+
+## Challenges and Solutions
+
+### Challenge 1: [Issue you faced]
+**Issue:** [Describe the problem]
+
+**Solution:** [How you solved it]
+
+### Challenge 2: [Issue you faced]
+**Issue:** [Describe the problem]
+
+**Solution:** [How you solved it]
+
+---
+
+## Live Website
+
+Visit the live site: [your-website-url.com]
+
+## Repository Contents
+
+This repository contains the source code, documentation, and configuration files for my AWS-hosted portfolio website.
