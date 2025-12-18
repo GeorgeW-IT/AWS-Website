@@ -1,4 +1,4 @@
-# AWS Cloud Portfolio Website
+# AWS Cloud Hosted Portfolio Website
 
 ## Project Overview
 
