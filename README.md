@@ -68,7 +68,7 @@ My Route 53 hosted zone showing the DNS records that point my custom domain to t
 
 ### Live Website
 
-These screenshots are the current look of the web pages as i'm making this, but they could chnage or be updated.
+These screenshots are the current look of the web pages as i'm making this, but they could change or be updated.
 
 ![Website Homepage](AWSWebsite_Screenshots/Website_Page1.png)
 ![Website Portfolio Page](AWSWebsite_Screenshots/Website_Page2.png)
